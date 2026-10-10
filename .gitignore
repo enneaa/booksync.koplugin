@@ -1,0 +1,21 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.iml
+
+# Build artifacts
+*.zip
+*.tar.gz
+*.tar.xz
+
+# Temporary files
+*.tmp
+*.bak
+*.part
+*.conflict
+*.log

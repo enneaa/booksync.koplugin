@@ -1,0 +1,1026 @@
+msgid ""
+msgstr "Project-Id-Version: booksync v1.7.0\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2024-01-01 00:00+0000\nPO-Revision-Date: 2024-01-01 00:00+0000\nLast-Translator: \nLanguage-Team: Chinese (Simplified)\nLanguage: zh_CN\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\n"
+
+msgid "  None"
+msgstr "  无"
+
+msgid "%s metadata for %d book(s)"
+msgstr "将%s %d 本书籍的元数据"
+
+msgid "(No directories excluded)"
+msgstr "（暂无排除目录）"
+
+msgid "+ Add Directory to Exclude"
+msgstr "+ 添加排除目录"
+
+msgid "Additional JSON Backup"
+msgstr "额外备份JSON文件"
+
+msgid "All books"
+msgstr "所有书籍"
+
+msgid "All download"
+msgstr "全部下载"
+
+msgid "All upload"
+msgstr "全部上传"
+
+msgid "Auto Download Metadata"
+msgstr "自动下载元数据"
+
+msgid "Current book metadata"
+msgstr "当前书籍元数据"
+
+msgid "ALL books metadata"
+msgstr "全部书籍元数据"
+
+msgid "Auto Sync Exclude Directories"
+msgstr "自动同步排除目录"
+
+msgid "Auto Upload Book File"
+msgstr "自动上传书籍文件"
+
+msgid "Auto sync"
+msgstr "自动同步"
+
+msgid "Auto update failed (Cloud directory not set)"
+msgstr "自动更新失败(未设置云端目录)"
+
+msgid "Auto update failed (Cloud storage not configured)"
+msgstr "自动更新失败(未配置云存储)"
+
+msgid "Auto update failed (Network disconnected)"
+msgstr "自动更新失败(网络未连接)"
+
+msgid "Auto update failed (Unsupported cloud service)"
+msgstr "自动更新失败(不支持的云服务)"
+
+msgid "Auto update skipped (directory excluded)"
+msgstr "自动更新已跳过（目录被排除）"
+
+msgid "Batch delete"
+msgstr "批量删除"
+
+msgid "Batch download"
+msgstr "批量下载"
+
+msgid "Batch download selected books metadata"
+msgstr "批量下载选中书籍元数据"
+
+msgid "Batch download/delete cloud books"
+msgstr "批量下载/删除云端书籍"
+
+msgid "Batch upload"
+msgstr "批量上传"
+
+msgid "Batch upload metadata"
+msgstr "批量上传元数据"
+
+msgid "Batch upload selected books"
+msgstr "批量上传选中书籍"
+
+msgid "Batch upload selected books metadata"
+msgstr "批量上传选中书籍元数据"
+
+msgid "Book Cloud Directory: %1"
+msgstr "书籍云端目录：%1"
+
+msgid "Book Download Directory: %1"
+msgstr "书籍下载目录：%1"
+
+msgid "Book download directory set: %1"
+msgstr "书籍下载目录已设置：%1"
+
+msgid "Book file does not exist"
+msgstr "书籍文件不存在"
+
+msgid "Book file not found"
+msgstr "未找到书籍文件"
+
+msgid "Book sync"
+msgstr "书籍同步"
+
+msgid "Cloud Books"
+msgstr "云端书籍"
+
+msgid "Browse: %s"
+msgstr "浏览：%s"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot build cloud path"
+msgstr "无法构建云端路径"
+
+msgid "Cannot check cloud files"
+msgstr "无法检查云端文件"
+
+msgid "Cannot create download directory"
+msgstr "无法创建下载目录"
+
+msgid "Cannot get cloud file list"
+msgstr "无法获取云端文件列表"
+
+msgid "Cannot load directory"
+msgstr "无法加载目录"
+
+msgid "Clear Search"
+msgstr "清除搜索"
+
+msgid "Close book"
+msgstr "关闭书籍"
+
+msgid "Cloud Library: All auto sync disabled"
+msgstr "云端书库: 已关闭所有元数据自动同步"
+
+msgid "Cloud Library: Worry-Free Sync Mode enabled (auto upload on close/suspend + auto download merge on open)"
+msgstr "云端书库: 已开启元数据省心同步模式 (关闭书籍/设备休眠自动上传 + 打开书籍自动合并更新)"
+
+msgid "Cloud authentication failed"
+msgstr "云端认证失败"
+
+msgid "Cloud directory not set"
+msgstr "未设置云端目录"
+
+msgid "Cloud file does not exist"
+msgstr "云端文件不存在"
+
+msgid "Cloud filename too long, upload failed"
+msgstr "云端文件名过长，上传失败"
+
+msgid "Cloud storage authentication failed"
+msgstr "云存储认证失败"
+
+msgid "Cloud storage authentication failed, please reconfigure"
+msgstr "云存储认证失败，请重新配置"
+
+msgid "Cloud storage not configured"
+msgstr "未配置云存储"
+
+msgid "Cloud storage service not configured"
+msgstr "未配置云存储服务"
+
+msgid "Confirm download"
+msgstr "确认下载"
+
+msgid "Confirm merge download"
+msgstr "确认合并下载"
+
+msgid "Contact developer"
+msgstr "请联系开发者"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Convert annotations to NoteMarkData format"
+msgstr "将标注转换为NoteMarkData格式"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete (%d)"
+msgstr "删除 (%d)"
+
+msgid "Delete completed: %1 success, %2 failed"
+msgstr "删除完成: %1 成功, %2 失败"
+
+msgid "Delete failed (HTTP %1)"
+msgstr "删除失败 (HTTP %1)"
+
+msgid "Delete failed details"
+msgstr "删除失败详情"
+
+msgid "Deleting books..."
+msgstr "正在删除书籍..."
+
+msgid "Deselect All"
+msgstr "取消全选"
+
+msgid "Device ID: %s"
+msgstr "设备ID: %s"
+
+msgid "Device not connected to network"
+msgstr "设备未连接到网络"
+
+msgid "Device suspend"
+msgstr "设备休眠"
+
+msgid "Device: %s"
+msgstr "操作设备: %s"
+
+msgid "Disabled: %1"
+msgstr "已关闭：%1"
+
+msgid "Disabled: Additional JSON backup"
+msgstr "已关闭额外备份JSON"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download (%d)"
+msgstr "下载 (%d)"
+
+msgid "Download completed: %1 success, %2 failed, %3 skipped"
+msgstr "下载完成: %1 成功, %2 失败, %3 跳过"
+
+msgid "Download completed: 0 success, 1 failed, 0 skipped"
+msgstr "下载完成：0 成功，1 失败，0 跳过"
+
+msgid "Download directory not set"
+msgstr "下载目录未设置"
+
+msgid "Download failed"
+msgstr "下载失败"
+
+msgid "Download failed details"
+msgstr "下载失败详情"
+
+msgid "Download metadata for ALL books from cloud on resuming from suspend"
+msgstr "从休眠恢复时从云端下载全部书籍的元数据"
+
+msgid "Download metadata for ALL books in current directory"
+msgstr "下载当前目录中全部书籍的元数据"
+
+msgid "Download metadatas (CL) (%1)"
+msgstr "下载元数据(CL)（%1）"
+
+msgid "Download successful"
+msgstr "下载成功"
+
+msgid "Downloading books..."
+msgstr "正在下载书籍..."
+
+msgid "Downloading metadata..."
+msgstr "正在下载元数据..."
+
+msgid "Downloading: %1"
+msgstr "正在下载: %1"
+
+msgid "Edit annotation"
+msgstr "编辑标注"
+
+msgid "Enabled: %1"
+msgstr "已开启：%1"
+
+msgid "Enabled: NoteMarkData format"
+msgstr "已开启：NoteMarkData格式"
+
+msgid "Enabled: Original format"
+msgstr "已开启：原始格式"
+
+msgid "Enter book title keyword"
+msgstr "输入书名关键字"
+
+msgid "Exclude Directories"
+msgstr "排除目录"
+
+msgid "Exclude Directories (%1)"
+msgstr "排除目录（%1）"
+
+msgid "Excluded directory added: %1"
+msgstr "已添加排除目录：%1"
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "Failed books:"
+msgstr "失败书籍:"
+
+msgid "Last sync: %1"
+msgstr "最后同步：%1"
+
+msgid "Last sync: %1 (%2)"
+msgstr "最后同步：%1（%2）"
+
+msgid "Local file with same name already exists"
+msgstr "本地已存在同名文件"
+
+msgid "Local metadata file not found"
+msgstr "未找到本地元数据文件"
+
+msgid "Manual Sync"
+msgstr "手动同步"
+
+msgid "Merge"
+msgstr "合并更新"
+
+msgid "Metadata Cloud Directory: %1"
+msgstr "元数据云端目录：%1"
+
+msgid "Metadata file not found in cloud"
+msgstr "云端无元数据文件"
+
+msgid "Metadata sync"
+msgstr "元数据同步"
+
+msgid "Network disconnected"
+msgstr "网络断开"
+
+msgid "Next Page ▶"
+msgstr "下一页 ▶"
+
+msgid "No book is currently open"
+msgstr "当前未打开书籍"
+
+msgid "No books found"
+msgstr "没有找到匹配的书籍"
+
+msgid "No books found to sync"
+msgstr "未找到可同步的书籍"
+
+msgid "No books selected"
+msgstr "未选中任何书籍"
+
+msgid "No files selected"
+msgstr "没有选中任何文件"
+
+msgid "No local metadata files found"
+msgstr "未找到本地元数据文件"
+
+msgid "No subfolders"
+msgstr "没有子文件夹"
+
+msgid "No valid book files selected"
+msgstr "没有选中任何有效的书籍文件"
+
+msgid "NoteMarkData format"
+msgstr "使用NoteMarkData格式"
+
+msgid "On annotation edit"
+msgstr "编辑标注时"
+
+msgid "On app resume"
+msgstr "应用恢复时"
+
+msgid "On chapter change"
+msgstr "翻完章节时"
+
+msgid "On closing book"
+msgstr "关闭书籍时"
+
+msgid "On device suspend"
+msgstr "设备休眠时"
+
+msgid "On resuming from suspend, upload current book metadata"
+msgstr "从休眠恢复时，上传当前书籍元数据"
+
+msgid "On settings flush (~5 min)"
+msgstr "保存设置时（约5分钟）"
+
+msgid "Open book"
+msgstr "打开书籍"
+
+msgid "Operation type: %s"
+msgstr "操作类型: %s"
+
+msgid "Original format (default)"
+msgstr "保持原有格式（默认）"
+
+msgid "Overwrite cloud"
+msgstr "覆盖云端"
+
+msgid "Page %d/%d (%d books)"
+msgstr "第 %d/%d 页 (%d本)"
+
+msgid "Please check network and configuration"
+msgstr "请检查网络和配置"
+
+msgid "Please check the log file"
+msgstr "请查看日志文件"
+
+msgid "Please check username/password"
+msgstr "请检查用户名/密码"
+
+msgid "Please configure cloud storage in settings"
+msgstr "请在设置中配置云存储"
+
+msgid "Please open the book first to generate metadata file"
+msgstr "请先打开该书生成元数据文件"
+
+msgid "Please select books to %1, then tap \"%1\""
+msgstr "请勾选要%1的书籍，再点击「%1」"
+
+msgid "Please set book download directory in settings first"
+msgstr "请先在设置中设置书籍下载目录"
+
+msgid "Please turn on Wi-Fi and try again"
+msgstr "请打开 Wi-Fi 后重试"
+
+msgid "Please upload the book first"
+msgstr "请先上传该书"
+
+msgid "Please use WebDAV or Dropbox"
+msgstr "请使用 WebDAV 或 Dropbox"
+
+msgid "Reason: %s"
+msgstr "原因: %s"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Root"
+msgstr "根目录"
+
+msgid "Scan current directory and upload metadata for ALL books"
+msgstr "扫描当前目录并上传全部书籍的元数据"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search books"
+msgstr "搜索书籍"
+
+msgid "Search: \"%s\" (%d books found)"
+msgstr "搜索: \"%s\" (找到 %d 本)"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Select Book Download Directory"
+msgstr "选择书籍下载目录"
+
+msgid "Select Directory to Exclude from Auto Sync"
+msgstr "选择要排除自动同步的目录"
+
+msgid "Select books to download/delete (%d selected)"
+msgstr "请选择要下载/删除的书籍 (已选 %d 本)"
+
+msgid "Set Book Cloud Directory (defaults to metadata directory)"
+msgstr "设置书籍云端目录（默认与元数据相同）"
+
+msgid "Set Book Download Directory"
+msgstr "设置书籍下载目录"
+
+msgid "Set Metadata Cloud Directory"
+msgstr "设置元数据云端目录"
+
+msgid "Single download"
+msgstr "单本下载"
+
+msgid "Single upload"
+msgstr "单本上传"
+
+msgid "Skipped (already exists)"
+msgstr "跳过（已存在）"
+
+msgid "Solution: %s"
+msgstr "解决方案: %s"
+
+msgid "Sync Log"
+msgstr "同步记录"
+
+msgid "Sync time: %s"
+msgstr "同步时间: %s"
+
+msgid "This directory is already in the exclude list"
+msgstr "该目录已在排除列表中"
+
+msgid "This operation requires reopening the current book to merge update metadata. Continue?"
+msgstr "此操作需要重新打开当前书籍以合并更新元数据，是否继续？"
+
+msgid "This operation requires reopening the current book to override update metadata. Continue?"
+msgstr "此操作需要重新打开当前书籍以覆盖更新元数据，是否继续？"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Unsupported cloud service"
+msgstr "不支持的云服务"
+
+msgid "Unsupported cloud storage type"
+msgstr "不支持的云服务类型"
+
+msgid "Unsupported file format"
+msgstr "不支持的文件格式"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Upload %1 book(s) to cloud"
+msgstr "上传 %1 本书到云端"
+
+msgid "Upload %d book(s) to cloud"
+msgstr "上传 %d 本书到云端"
+
+msgid "Upload books (CL) (%1)"
+msgstr "上传书籍(CL)（%1）"
+
+msgid "Upload completed: %1 success, %2 failed"
+msgstr "上传完成: %1 成功, %2 失败"
+
+msgid "Upload failed"
+msgstr "上传失败"
+
+msgid "Upload failed (HTTP %1)"
+msgstr "上传失败 (HTTP %1)"
+
+msgid "Upload failed details"
+msgstr "上传失败详情"
+
+msgid "Upload metadatas (CL) (%1)"
+msgstr "上传元数据(CL)（%1）"
+
+msgid "Upload successful"
+msgstr "上传成功"
+
+msgid "Upload the book file only if no file with the same name exists in cloud"
+msgstr "仅当云端不存在同名文件时上传书籍文件"
+
+msgid "Upload when KOReader periodically saves settings (roughly every 5 minutes)"
+msgstr "KOReader 定期保存设置时上传（约每5分钟）"
+
+msgid "Upload when you finish reading a chapter and move to the next"
+msgstr "读完一个章节并翻到下一章时上传"
+
+msgid "Uploading books..."
+msgstr "正在上传书籍..."
+
+msgid "Uploading metadata..."
+msgstr "正在上传元数据..."
+
+msgid "View Sync Log"
+msgstr "查看同步记录"
+
+msgid "[Failed] (%d books)"
+msgstr "【失败】( %d 本)"
+
+msgid "[Failed] ✗ %s"
+msgstr "【失败】✗ %s"
+
+msgid "[Failure reason %d] %s"
+msgstr "【失败原因 %d】%s"
+
+msgid "[Skipped] (%d books)"
+msgstr "【跳过】( %d 本)"
+
+msgid "[Success] (%d books)"
+msgstr "【成功】( %d 本)"
+
+msgid "[Success] ✓ %s"
+msgstr "【成功】✓ %s"
+
+msgid "download"
+msgstr "下载"
+
+msgid "download-merge"
+msgstr "下载-合并更新"
+
+msgid "download-overwrite"
+msgstr "下载-覆盖更新"
+
+msgid "upload"
+msgstr "上传"
+
+msgid "◀ Previous Page"
+msgstr "◀ 上一页"
+
+msgid "Delete successful: %1"
+msgstr "删除成功: %1"
+
+msgid "Download successful: %1"
+msgstr "下载成功: %1"
+
+msgid "Download failed: %1"
+msgstr "下载失败：%1"
+
+msgid "Upload failed: %1"
+msgstr "上传失败：%1"
+
+msgid "Auto Sync"
+msgstr "自动同步"
+
+msgid "Auto Upload Metadata"
+msgstr "自动上传元数据"
+
+msgid "Upload current book metadata when opening a book"
+msgstr "打开书籍时上传当前书籍元数据"
+
+msgid "Sort: %1"
+msgstr "排序：%1"
+
+msgid "Name A→Z"
+msgstr "名称 A→Z"
+
+msgid "Name Z→A"
+msgstr "名称 Z→A"
+
+msgid "Size ↓"
+msgstr "大小 ↓"
+
+msgid "Size ↑"
+msgstr "大小 ↑"
+
+msgid "Time ↓"
+msgstr "时间 ↓"
+
+msgid "Time ↑"
+msgstr "时间 ↑"
+
+msgid "BookSync"
+msgstr "书籍同步"
+
+msgid "Quick Actions"
+msgstr "快捷操作"
+
+msgid "Worry-Free Sync Mode"
+msgstr "无忧同步模式"
+
+msgid "Upload current book metadata"
+msgstr "上传当前书籍元数据"
+
+msgid "Download current book metadata (Smart mode)"
+msgstr "下载当前书籍元数据(智能模式)"
+
+msgid "Batch download metadata (Smart mode)"
+msgstr "批量下载元数据(智能模式)"
+
+msgid "On opening a book"
+msgstr "打开书籍时"
+
+msgid "On app start"
+msgstr "应用启动时"
+
+msgid "App start"
+msgstr "应用启动"
+
+msgid "%1 last book (%2)"
+msgstr "%1 上次读的书籍(%2)"
+
+msgid "No book opened yet"
+msgstr "还没有打开过书籍"
+
+msgid "On launching KOReader, pull metadata for ALL books so reading progress from your other devices is up to date"
+msgstr "启动时拉取全部书籍元数据,同步其他设备的阅读进度"
+
+msgid "Already downloaded"
+msgstr "已下载"
+
+msgid "Download directory is not set"
+msgstr "未设置下载目录"
+
+msgid "Cannot create the download directory"
+msgstr "无法创建下载目录"
+
+msgid "Cloud storage is not configured"
+msgstr "未配置云存储"
+
+msgid "No network connection"
+msgstr "无网络连接"
+
+msgid "Cannot build the cloud path"
+msgstr "无法构建云端路径"
+
+msgid "The file no longer exists in the cloud"
+msgstr "云端已不存在该文件"
+
+msgid "Cloud storage rejected the credentials"
+msgstr "云存储拒绝了认证信息"
+
+msgid "Transfer failed or was cut off"
+msgstr "传输失败或被中断"
+
+msgid "Could not list the cloud folder"
+msgstr "无法列出云端目录"
+
+msgid "Upload failed or was cut off"
+msgstr "上传失败或被中断"
+
+msgid "Unknown error - see the sync log"
+msgstr "未知错误 — 详见同步日志"
+
+msgid "Internal error - the details are in the sync log"
+msgstr "内部错误 — 详情见同步日志"
+
+msgid "Full details, including stack traces, are in the sync log."
+msgstr "完整详情(含调用栈)见同步日志。"
+
+msgid "Re-download books that already exist locally"
+msgstr "重新下载本地已存在的书籍"
+
+msgid "Normally a book that is already in the download folder is skipped. Turn this on to replace local files with the cloud copy, which is how you recover a book left half-written by an earlier failed transfer."
+msgstr "默认跳过下载目录中已存在的书籍。打开后将用云端副本覆盖本地文件——这正是找回之前下载失败留下的半截书籍的办法。"
+
+msgid "[Failure reason %1] %2"
+msgstr "[失败原因 %1] %2"
+
+msgid "Access denied - check the cloud path and credentials"
+msgstr "拒绝访问 — 请检查云端路径和认证信息"
+
+msgid "No space left on the device"
+msgstr "设备存储空间不足"
+
+msgid "The file is too large for the server"
+msgstr "文件超出服务器限制"
+
+msgid "The cloud folder or file does not exist"
+msgstr "云端目录或文件不存在"
+
+msgid "No response from the server - connection dropped or timed out"
+msgstr "服务器无响应 — 连接中断或超时"
+
+msgid "Transfer failed"
+msgstr "传输失败"
+
+msgid "Download failed (HTTP %1)"
+msgstr "下载失败（HTTP %1）"
+
+msgid "Batch book upload"
+msgstr "批量上传书籍文件"
+
+msgid "Batch metadata download"
+msgstr "批量下载元数据"
+
+msgid "Batch metadata upload"
+msgstr "批量上传元数据"
+
+msgid "Book upload"
+msgstr "上传书籍文件"
+
+msgid "File is too large for this cloud service"
+msgstr "文件超出此云服务的限制"
+
+msgid "Metadata download"
+msgstr "下载元数据"
+
+msgid "Metadata upload"
+msgstr "上传元数据"
+
+msgid "No book to upload, please open a book first"
+msgstr "没有可上传的书籍，请先打开一本书"
+
+msgid "No metadata sidecar next to the book"
+msgstr "书籍旁没有元数据文件"
+
+msgid "On launching KOReader, upload the metadata of the book you last read"
+msgstr "启动 KOReader 时，上传上次阅读书籍的元数据"
+
+msgid "The local file could not be read"
+msgstr "无法读取本地文件"
+
+msgid "This KOReader build does not expose the cloud storage settings dialog"
+msgstr "此 KOReader 版本没有提供云存储设置对话框"
+
+msgid "Upload all books metadata"
+msgstr "上传全部书籍元数据"
+
+msgid "Upload current book file"
+msgstr "上传当前书籍文件"
+
+msgid "%1 failed: %2"
+msgstr "%1 失败：%2"
+
+msgid "Transfer failed (HTTP %1)"
+msgstr "传输失败（HTTP %1）"
+
+msgid "The server refused this request. Check the cloud folder path, and that the account may write to it."
+msgstr "服务器拒绝了此请求。请检查云端目录路径，以及该账号是否有写入权限。"
+
+msgid "Free up space in the download folder and try again."
+msgstr "请清理下载目录的空间后重试。"
+
+msgid "Ask your server admin to raise the upload limit."
+msgstr "请联系服务器管理员提高上传大小限制。"
+
+msgid "Check the cloud folder path in Settings."
+msgstr "请在设置里检查云端目录路径。"
+
+msgid "Check the sync log for the full request that failed."
+msgstr "请查看同步日志了解失败的完整请求。"
+
+msgid "Download failed: empty file"
+msgstr "下载失败：文件为空"
+
+msgid "Download incomplete, local file kept"
+msgstr "下载不完整，已保留本地文件"
+
+msgid "Cannot write to the download folder"
+msgstr "无法写入下载目录"
+
+msgid "The book is not in your library, or its metadata folder could not be created"
+msgstr "该书籍不在你的书库中，或无法创建它的元数据文件夹"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "On failure"
+msgstr "失败时"
+
+msgid "On success"
+msgstr "成功时"
+
+msgid "On skipped"
+msgstr "跳过时"
+
+msgid "Tell me when an automatic sync could not be done. Leave this on."
+msgstr "自动同步没能完成时通知我。建议保持开启。"
+
+msgid "Tell me when an automatic sync finished. Usually the noisiest one."
+msgstr "自动同步完成时通知我。通常是最吵的一项。"
+
+msgid "Tell me when an automatic sync deliberately did nothing: an excluded directory, a book already in the cloud, or nothing to do."
+msgstr "自动同步主动跳过时通知我:目录被排除、云端已有该书、或无事可做。"
+
+msgid "More Settings"
+msgstr "更多设置"
+
+msgid "Skipped %1 book(s) with no local metadata yet. Open them once, then sync again."
+msgstr "已跳过 %1 本尚无本地元数据的书。打开一次后再同步。"
+
+msgid "No local metadata to upload"
+msgstr "没有可上传的本地元数据"
+
+msgid "The book has not been opened on this device yet. Open it once and sync again."
+msgstr "这本书还没在本机打开过。打开一次后再同步。"
+
+msgid "  No local metadata to upload (book never opened on this device)"
+msgstr "  没有可上传的本地元数据（这本书从未在本机打开过）"
+
+msgid "No sync log yet. It is created after the first sync."
+msgstr "还没有同步记录。首次同步后会自动生成。"
+
+msgid "The sync log is empty."
+msgstr "同步记录是空的。"
+
+msgid "Please set the cloud folder in settings — syncing without one would write to the storage root"
+msgstr "请在设置中指定云端目录——未指定就同步会把文件写到存储根目录"
+
+msgid "Download current book metadata"
+msgstr "下载当前书籍元数据"
+
+msgid "Download the cloud metadata when opening a book. Annotations and reading progress are always merged, never replaced."
+msgstr "打开书籍时下载云端元数据。标注与阅读进度始终为合并，不会被覆盖。"
+
+msgid "Download all books metadata"
+msgstr "下载全部书籍元数据"
+
+msgid "Batch download metadata"
+msgstr "批量下载元数据"
+
+msgid "Downloading and applying metadata - %1..."
+msgstr "正在下载并应用元数据 - %1..."
+
+msgid " (%1 skipped)"
+msgstr "（跳过 %1）"
+
+msgid "%1 queued sync(s) failed, will retry"
+msgstr "%1 项排队同步失败，稍后重试"
+
+msgid "..."
+msgstr "…"
+
+msgid "... older records trimmed ...\\n[showing the most recent entries]"
+msgstr "… 更早的记录已省略 …\\n[仅显示最近的条目]"
+
+msgid "All books skipped: directory excluded"
+msgstr "全部书籍已跳过：目录已排除"
+
+msgid "Applied"
+msgstr "已应用"
+
+msgid "Are you sure you want to delete %d book(s) from the cloud?\\nThis action cannot be undone!"
+msgstr "确定要删除云端的 %d 本书吗？\\n此操作无法撤销！"
+
+msgid "Book upload failed: %1"
+msgstr "书籍上传失败：%1"
+
+msgid "Book upload skipped: already in cloud"
+msgstr "书籍上传已跳过：云端已有"
+
+msgid "Book upload skipped: directory excluded"
+msgstr "书籍上传已跳过：目录已排除"
+
+msgid "Book uploaded"
+msgstr "书籍已上传"
+
+msgid "Cloud folder not set"
+msgstr "未设置云端目录"
+
+msgid "Cloud login failed"
+msgstr "云端登录失败"
+
+msgid "Cloud not configured"
+msgstr "云端未配置"
+
+msgid "Cloud not set up"
+msgstr "云端未配置"
+
+msgid "Cloud storage configured:\\n%1"
+msgstr "云存储已配置：\\n%1"
+
+msgid "Could not apply the downloaded metadata"
+msgstr "无法应用下载的元数据"
+
+msgid "Could not open the file browser"
+msgstr "无法打开文件管理器"
+
+msgid "Failure details:\\n\\n"
+msgstr "失败详情：\\n\\n"
+
+msgid "Metadata downloaded: %1 ok, %2 failed"
+msgstr "元数据下载完成：成功 %1，失败 %2"
+
+msgid "Metadata updated from cloud"
+msgstr "已用云端更新元数据"
+
+msgid "Metadata uploaded"
+msgstr "元数据已上传"
+
+msgid "Metadata uploaded: %1 ok, %2 failed"
+msgstr "元数据上传完成：成功 %1，失败 %2"
+
+msgid "No book open"
+msgstr "未打开书籍"
+
+msgid "No books to sync"
+msgstr "没有可同步的书籍"
+
+msgid "No local metadata"
+msgstr "无本地元数据"
+
+msgid "Offline"
+msgstr "网络未连接"
+
+msgid "Only WebDAV and Dropbox are supported"
+msgstr "仅支持 WebDAV 和 Dropbox"
+
+msgid "Open the file browser first"
+msgstr "请先打开文件管理器"
+
+msgid "Please try:\\n1. Shorten the book title\\n2. Shorten the author name\\nCloud files are named Title_Author, and the limit is 255 characters"
+msgstr "请尝试：\\n1. 缩短书名\\n2. 缩短作者名\\n云端文件名为「书名_作者」，长度上限为 255 个字符"
+
+msgid "Select books to %1, then tap \"%1\""
+msgstr "请勾选要%1的书籍，再点击「%1」"
+
+msgid "Set the cloud folder in settings"
+msgstr "请在设置中指定云端目录"
+
+msgid "Set up cloud storage in settings"
+msgstr "请在设置中配置云存储"
+
+msgid "Skipped: directory excluded"
+msgstr "已跳过：目录已排除"
+
+msgid "Sync failed: %1"
+msgstr "同步失败：%1"
+
+msgid "Update failed: %1"
+msgstr "更新失败：%1"
+
+msgid "Updated from cloud"
+msgstr "已用云端更新"
+
+msgid "Write failed - check free space and permissions"
+msgstr "写入失败，请检查存储空间与写入权限"
+
+msgid "[%s] JSON format uploaded (NoteMarkData): %s\\n"
+msgstr "[%s] JSON 格式已上传（NoteMarkData）：%s\\n"
+
+msgid "[%s] JSON format uploaded: %s\\n"
+msgstr "[%s] JSON 格式已上传：%s\\n"
+
+msgid "[Failure reason %1] %2 (%3 books)\\n"
+msgstr "[失败原因 %1] %2（%3 本书）\\n"
+
+msgid "Downloading and applying metadata..."
+msgstr "正在下载并应用元数据..."
+
+msgid "Buttons in the long-press menu"
+msgstr "长按菜单中的按钮"
+
+msgid "Adds upload and download entries to the menu you get by long-pressing a book in the file browser. Turn this off if that menu misbehaves on your device; the rest of BookSync is unaffected."
+msgstr "在文件浏览器长按书籍弹出的菜单中添加上传/下载按钮。如果该菜单在你的设备上异常，关闭此项；BookSync 的其他功能不受影响。"
+
+msgid "Upload metadata"
+msgstr "上传元数据"
+
+msgid "Download metadata"
+msgstr "下载元数据"
+
+msgid "Upload book"
+msgstr "上传书籍"
+
+msgid "Nothing to sync"
+msgstr "没有需要同步的内容"
+
+msgid "%1 of %2 failed"
+msgstr "%2 项中有 %1 项失败"
+
+msgid "Updated %1, skipped %2"
+msgstr "已更新 %1，跳过 %2"
+
+msgid "Updated %1 book(s)"
+msgstr "已更新 %1 本"
+
+msgid "Scan failed"
+msgstr "扫描失败"
+
+msgid "Syncing %1 book(s)..."
+msgstr "正在同步 %1 本..."
+
+msgid "Could not start the sync"
+msgstr "无法开始同步"
+
